@@ -1,1 +1,11 @@
+title: Gustavo V. Barroso
+#logo: "/images/photo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Computational Evolutionary Biologist
+  <br><br>
+  Gene Expression & Population Genomics, from statistical modelling to data analyses 
+  <br><br>
+  <a href="https://twitter.com/gv_barroso">My Twitter account</a> 
+
 theme: jekyll-theme-slate
+orcid_id: https://orcid.org/0000-0002-1943-9297
