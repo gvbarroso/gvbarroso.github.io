@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# About
 
-You can use the [editor on GitHub](https://github.com/gvbarroso/gvbarroso.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Gustavo Valadares Barroso was born in Jaragua do Sul, Santa Catarina, Brazil.
+<br><br>
+As a teenager, he played competitive Chess and in his early 20's he was a professional Poker player.
+<br><br>
+He did his Bsc in Biological Sciences, Msc in Genetics and Evolution and PhD in Evolutionary Biology.
+Currently, he is working as a postdoc at UCLA where he investigates natural selection in short time-scales.
+<br><br>
+In his free time, Gustavo likes to
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Hobbies
+Besides Chess and Poker, Gustavo is also a big fan of Magic: the Gathering as well as Football, Tennis and hiking.
+<br>
+Currently, his favorite album is [Beacon](https://open.spotify.com/album/3Mdzwty8ag5QyAYLxThypm?si=pMxZbAt7SGejBGPalS8h7g) by Two Door Cinema Club.
+<br><br>
 
-### Interests
+# Short CV
+TODO add link
 
+# Projects
 TODO
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gvbarroso/gvbarroso.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
