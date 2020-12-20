@@ -19,4 +19,4 @@ Currently, his favorite album is [Beacon](https://open.spotify.com/album/3Mdzwty
 TODO add link
 
 # Projects
-TODO
+## TIDES -- Trio-based Inference of DominancE and Selection
