@@ -4,8 +4,7 @@ logo: "/images/photo.png?raw=true"
 description: >
   Computational Evolutionary Biologist
   <br><br>
-  I study evolutionary biology using computational methods
-  [(CV)]({{ site.baseurl }}/pdf/CVitae.pdf).
+  I study evolutionary biology using computational methods.
   My long-term goal is to understand how population-level processes
   (genetic drift, natural selection) interact with molecular-level processes
   (mutation, recombination) to shape patterns of genetic variation.
@@ -18,6 +17,6 @@ description: >
 #<br>
 #<a href="https://orcid.org/0000-0002-1943-9297">View My Orcid Profile</a> 
 twitter: gv_barroso
-github: gvbarroso
+  github: gvbarroso
 
 theme: jekyll-theme-minimal
