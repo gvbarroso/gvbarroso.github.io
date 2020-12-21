@@ -15,9 +15,5 @@ description: >
 
 owner:
   github: gvbarroso
-  <br>
-  <a href="https://www.twitter.com/gv_barroso">View My Twitter Profile</a>
-  <br>
-  <a href="https://orcid.org/0000-0002-1943-9297">View My Orcid Profile</a> 
   
 theme: jekyll-theme-minimal
