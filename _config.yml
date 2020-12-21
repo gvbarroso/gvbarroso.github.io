@@ -1,4 +1,6 @@
 title: Gustavo V. Barroso
+baseurl: gvbarroso.github.io
+logo: "/images/photo.png?raw=true"
 description: >
   Computational Evolutionary Biologist
   <br><br>
@@ -11,10 +13,11 @@ description: >
   I build these models into inference tools using a combination of the C++ and R
   programming languages and apply them to both simulated and empirical data sets
   from a variety of species. 
-baseurl: gvbarroso.github.io
-logo: "/images/photo.png?raw=true"
-theme: jekyll-theme-minimal
+
+#<a href="https://www.twitter.com/gv_barroso">View My Twitter Profile</a>
+#<br>
+#<a href="https://orcid.org/0000-0002-1943-9297">View My Orcid Profile</a> 
+twitter: gv_barroso
 github: gvbarroso
-<a href="https://www.twitter.com/gv_barroso">View My Twitter Profile</a> 
-<a href="https://orcid.org/0000-0002-1943-9297">View My Orcid Profile</a> 
-  
+
+theme: jekyll-theme-minimal
