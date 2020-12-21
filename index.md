@@ -19,7 +19,6 @@ As a teenager, I played competitive Chess and in my early 20's I was a professio
 My favorite album is currently [Beacon](https://open.spotify.com/album/3Mdzwty8ag5QyAYLxThypm?si=pMxZbAt7SGejBGPalS8h7g) by Two Door Cinema Club.
 <br><br>
 I did my Bsc in Biological Sciences, Msc in Genetics and Evolution and PhD in Evolutionary Biology.
-<br>
 In my current project I develop statistical models to investigate natural selection in short time-scales.
 <br>
 You can get in touch with me via [twitter](https://twitter.com/gv_barroso) or email: gvbarroso [at] gmail.com
