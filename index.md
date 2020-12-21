@@ -1,4 +1,4 @@
-# Bio
+## Bio
 
 Gustavo Valadares Barroso was born in Jaragua do Sul, Santa Catarina, Brazil.
 <br>
@@ -10,18 +10,22 @@ He did his Bsc in Biological Sciences, Msc in Genetics and Evolution and PhD in 
 In his current project he develops statistical models to investigate natural selection in short time-scales.
 <br>
 
-# Short CV
+## Short CV
 TODO add link
 
-# Projects
+## Research Interests
+Gustavo studies evolutionary biology using computational methods. His long-term goal is to understand how population-level processes (genetic drift, natural selection) interact with molecular-level processes (mutation and recombination) to shape patterns of genetic variation. To this end, he develops novel statistical models based on population genetics theory. He builds these models into inference tools using a combination of the C++ and R programming languages and applies them to both simulated and empirical data sets from a variety of species. 
+<br>
 
-## PhD
+## Projects
+
+### PhD
 In the first chapter of my PhD thesis, I used regression techniques to analyze the signature of selection in gene expression variation among individual cells. Using single-cell transcriptomics data from _Mus musculus_, [we showed](https://www.genetics.org/content/208/1/173) that expression noise is reduced in genes that are central within molecular networks, consistent with selection acting to avoid noise propagation within the cell. In the second and thirds chapters I developed the [integrated Sequentially Markovian Coalescent][ismc] – a population genetic method that uses Hidden Markov models to jointly infer demography and variation in recombination and mutation rates along the genome. Using [iSMC][ismc], I was able to show that the similarity of the recombination landscape among Hominin populations recapitulates their established [evolutionary history](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008449), as well as to estimate that mutation rate variation is the most relevant parameter shaping the distribution of nucleotide diversity along the _Drosophila melanogaster_ genome (Barroso & Dutheil, in preparation).
 
-## TIDES -- Trio-based Inference of DominancE and Selection
+### TIDES -- Trio-based Inference of DominancE and Selection
 TODO: copy and paste from joint_plots.R
 
-## iSMC -- The Integrated Sequentially Markovian Coalescent
+### iSMC -- The Integrated Sequentially Markovian Coalescent
 
 
 [ismc]: https://github.com/gvbarroso/iSMC
