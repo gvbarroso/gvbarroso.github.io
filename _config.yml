@@ -1,6 +1,7 @@
 title: Gustavo V. Barroso
-logo: "/images/pic.JPG" 
+logo: /images/pic.JPG
 description: >
   Computational Evolutionary Biologist
 theme: jekyll-theme-slate
+baseurl: gvbarroso.github.io
 orcid_id: https://orcid.org/0000-0002-1943-9297

@@ -1,5 +1,5 @@
 ## About
-I study evolutionary biology using computational methods [(CV)][cv] . My long-term goal is to understand how population-level processes (genetic drift, natural selection) interact with molecular-level processes (mutation, recombination) to shape patterns of genetic variation. To this end, I develop statistical models based on population genetics theory. I build these models into inference tools using a combination of the C++ and R programming languages and apply them to both simulated and empirical data sets from a variety of species. 
+I study evolutionary biology using computational methods [(CV)]({{ site.baseurl }}/pdf/CVitae.pdf). My long-term goal is to understand how population-level processes (genetic drift, natural selection) interact with molecular-level processes (mutation, recombination) to shape patterns of genetic variation. To this end, I develop statistical models based on population genetics theory. I build these models into inference tools using a combination of the C++ and R programming languages and apply them to both simulated and empirical data sets from a variety of species. 
 
 
 ## Projects
@@ -26,4 +26,3 @@ You can get in touch with me via [twitter](https://twitter.com/gv_barroso) or em
 
 [ismc]: https://github.com/gvbarroso/iSMC
 [tides]: https://github.com/gvbarroso/ABCDFE
-[cv]: 
