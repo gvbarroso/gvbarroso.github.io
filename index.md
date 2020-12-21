@@ -10,14 +10,14 @@ In my current project I investigate natural selection in short time-scales.
 ## Projects
 
 ### PhD
-In the first chapter of my PhD thesis, I used regression techniques to analyze the signature of selection in gene expression variation among individual cells. Using single-cell transcriptomics data from _Mus musculus_, [we showed](https://www.genetics.org/content/208/1/173) that expression noise is reduced in genes that are central within molecular networks, consistent with selection acting to avoid noise propagation within the cell.
+In the first chapter of my [PhD thesis][phd], I used regression techniques to analyze the signature of selection in gene expression variation among individual cells. Using single-cell transcriptomics data from _Mus musculus_, [we showed](https://www.genetics.org/content/208/1/173) that expression noise is reduced in genes that are central within molecular networks, consistent with selection acting to avoid noise propagation within the cell.
 <br><br>
-In the second and thirds chapters I developed the [integrated Sequentially Markovian Coalescent][ismc] (iSMC) – a population genetic method that uses Hidden Markov models to jointly infer demography and variation in recombination and mutation rates along the genome. Using [iSMC][ismc], we were able to show that the similarity of the recombination landscape among Hominin populations recapitulates their established [evolutionary history](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008449), as well as to estimate that mutation rate variation is the main driver of the distribution of nucleotide diversity along the _Drosophila melanogaster_ genome (Barroso & Dutheil, _in preparation_).
+In the second and third chapters I developed the [integrated Sequentially Markovian Coalescent][ismc] (iSMC) – a population genetic method that uses Hidden Markov Models to jointly infer demography and variation in recombination and mutation rates along the genome. Using [iSMC][ismc], we were able to show that the similarity of the recombination landscape among Hominin populations recapitulates their established [evolutionary history](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008449), as well as to estimate that mutation rate variation is the main driver of the distribution of nucleotide diversity along the _Drosophila melanogaster_ genome (Barroso & Dutheil, _in preparation_).
 
 ### Postdoc
 TODO
 
 
-
+[phd]: https://macau.uni-kiel.de/servlets/MCRFileNodeServlet/dissertation_derivate_00008280/Diss_GVB_Thesis.pdf
 [ismc]: https://github.com/gvbarroso/iSMC
 [tides]: https://github.com/gvbarroso/ABCDFE
