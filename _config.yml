@@ -14,7 +14,7 @@ description: >
 baseurl: gvbarroso.github.io
 logo: "/images/photo.png?raw=true"
 theme: jekyll-theme-minimal
-owner:
-  <a href="https://www.twitter.com/gv_barroso">View My Twitter Profile</a> 
-  <a href="https://orcid.org/0000-0002-1943-9297">View My Orcid Profile</a> 
-  github: gvbarroso
+github: gvbarroso
+<a href="https://www.twitter.com/gv_barroso">View My Twitter Profile</a> 
+<a href="https://orcid.org/0000-0002-1943-9297">View My Orcid Profile</a> 
+  
