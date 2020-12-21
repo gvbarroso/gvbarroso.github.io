@@ -1,5 +1,5 @@
 title: Gustavo V. Barroso
-#logo: "/images/photo.png?raw=true" # your photo (or logo) here
+logo: "/images/photo.png?raw=true" 
 description: >
   Computational Evolutionary Biologist
 theme: jekyll-theme-slate
