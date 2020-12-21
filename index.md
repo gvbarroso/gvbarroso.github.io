@@ -20,8 +20,6 @@ My favorite album is currently [Beacon](https://open.spotify.com/album/3Mdzwty8a
 <br><br>
 I did my Bsc in Biological Sciences, Msc in Genetics and Evolution and PhD in Evolutionary Biology.
 In my current project I develop statistical models to investigate natural selection in short time-scales.
-<br>
-You can get in touch with me via [twitter](https://twitter.com/gv_barroso) or email: gvbarroso [at] gmail.com
 
 
 [ismc]: https://github.com/gvbarroso/iSMC

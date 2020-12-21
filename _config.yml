@@ -2,5 +2,10 @@ title: Gustavo V. Barroso
 description: >
   Computational Evolutionary Biologist
 baseurl: gvbarroso.github.io
-logo: {{ site.baseurl }}/images/pic.JPG
+logo: "/images/pic.JPG"
+date_format: "%B %-d, %Y"
 theme: jekyll-theme-slate
+orcid: 0000-0002-1943-9297
+twitter: gv_barroso
+github: gvbarroso
+email: gvbarroso@gmail.com
