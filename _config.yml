@@ -1,12 +1,20 @@
 title: Gustavo V. Barroso
 description: >
   Computational Evolutionary Biologist
+  <br><br>
+  I study evolutionary biology using computational methods
+  [(CV)]({{ site.baseurl }}/pdf/CVitae.pdf).
+  My long-term goal is to understand how population-level processes
+  (genetic drift, natural selection) interact with molecular-level processes
+  (mutation, recombination) to shape patterns of genetic variation.
+  To this end, I develop statistical models based on population genetics theory.
+  I build these models into inference tools using a combination of the C++ and R
+  programming languages and apply them to both simulated and empirical data sets
+  from a variety of species. 
 baseurl: gvbarroso.github.io
 logo: "/images/photo.png?raw=true"
-date_format: "%B %-d, %Y"
 theme: jekyll-theme-minimal
 owner:
-  orcid: 0000-0002-1943-9297
-  twitter: gv_barroso
+  <a href="https://www.twitter.com/gv_barroso">View My Twitter Profile</a> 
+  <a href="https://orcid.org/0000-0002-1943-9297">View My Orcid Profile</a> 
   github: gvbarroso
-  email: gvbarroso@gmail.com

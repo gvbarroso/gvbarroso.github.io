@@ -1,6 +1,11 @@
 ## About
-I study evolutionary biology using computational methods [(CV)]({{ site.baseurl }}/pdf/CVitae.pdf). My long-term goal is to understand how population-level processes (genetic drift, natural selection) interact with molecular-level processes (mutation, recombination) to shape patterns of genetic variation. To this end, I develop statistical models based on population genetics theory. I build these models into inference tools using a combination of the C++ and R programming languages and apply them to both simulated and empirical data sets from a variety of species. 
-
+I was born in Jaragua do Sul, Santa Catarina, Brazil.
+<br>
+As a teenager, I played competitive Chess and in my early 20's I was a professional Poker player.
+My favorite album is currently [Beacon](https://open.spotify.com/album/3Mdzwty8ag5QyAYLxThypm?si=pMxZbAt7SGejBGPalS8h7g) by Two Door Cinema Club.
+<br><br>
+I did my Bsc in Biological Sciences, Msc in Genetics and Evolution and PhD in Evolutionary Biology.
+In my current project I develop statistical models to investigate natural selection in short time-scales.
 
 ## Projects
 
@@ -12,14 +17,6 @@ In the second and thirds chapters I developed the [integrated Sequentially Marko
 ### Postdoc
 TODO: copy and paste from joint_plots.R
 
-## Bio
-I was born in Jaragua do Sul, Santa Catarina, Brazil.
-<br>
-As a teenager, I played competitive Chess and in my early 20's I was a professional Poker player.
-My favorite album is currently [Beacon](https://open.spotify.com/album/3Mdzwty8ag5QyAYLxThypm?si=pMxZbAt7SGejBGPalS8h7g) by Two Door Cinema Club.
-<br><br>
-I did my Bsc in Biological Sciences, Msc in Genetics and Evolution and PhD in Evolutionary Biology.
-In my current project I develop statistical models to investigate natural selection in short time-scales.
 
 
 [ismc]: https://github.com/gvbarroso/iSMC
