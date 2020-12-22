@@ -2,7 +2,7 @@
 I was born in Jaragua do Sul, Santa Catarina, Brazil.
 <br>
 As a teenager, I played competitive Chess and in my early 20's I was a professional Poker player.
-I ride a bicycle but I also enjoy walking (and hiking, of course).
+I ride a bicycle but I also enjoy walking -- and hiking, of course!
 My favorite album is [Beacon](https://open.spotify.com/album/3Mdzwty8ag5QyAYLxThypm?si=pMxZbAt7SGejBGPalS8h7g) by Two Door Cinema Club.
 <br><br>
 I did my Bsc in Biological Sciences, Msc in Genetics and Evolution and PhD in Evolutionary Biology [(CV)]({{ site.baseurl }}/pdf/CVitae.pdf).
