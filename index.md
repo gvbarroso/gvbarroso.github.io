@@ -19,13 +19,13 @@ Also during my PhD, we wrote a chapter in this open access book: [Statistical Po
 
 ### Postdoc
 
-#### Developing a statistical method for inferring the mode and strength of selection in a single generation 
+_Developing a statistical method for inferring the mode and strength of selection in a single generation_
 
-In this project I develop a new statistical model (TIDES) to infer the landscape of selective constraints within the last generation. TIDES simultaneously infers the mode and strength of selection in a single generation using approximate Bayesian computation. It leverages phased sequences from family trios to look for signatures of selection in the transmission of single nucleotide polymorphisms from parents to offspring. Briefly, comparing genomes from the offspring (the observed data) with genomes from simulated zygotes that could have been conceived by their parents provides information about the (unobserved) embryos that were miscarried and is therefore indicative of the strength of viability selection during embryonic development. By conditioning on parental genomes, past demography does not bias the inference and our summary statistics are sensitive to the strength of selection acting on the current generation rather than in the deep past. In the following figure I show the result of benchmarking TIDES with forward simulations of human-like evolutionary scenarios (dots represent medians of the estimates and lines represent 95% credible intervals):
+In this project I develop a new statistical model (TIDES) to infer the landscape of selective constraints within the last generation. TIDES simultaneously infers the mode and strength of selection in a single generation using approximate Bayesian computation. It leverages phased sequences from family trios to look for signatures of selection in the transmission of single nucleotide polymorphisms from parents to offspring. Briefly, comparing genomes from the offspring (the observed data) with genomes from simulated zygotes that could have been conceived by their parents provides information about the (unobserved) embryos that were miscarried and is therefore indicative of the strength of viability selection during embryonic development. In the following figure I show the result of benchmarking TIDES with forward simulations of human-like evolutionary scenarios (dots represent medians of the estimates and lines represent 95% credible intervals):
 
-![Fig]({{ site.baseurl }}/pdf/tides.png)
+[Fig]({{ site.baseurl }}/pdf/tides.png)
 
-#### Analysing the population genetic consequences of epistasis
+_Analysing the population genetic consequences of epistasis_
 
 TODO
 
