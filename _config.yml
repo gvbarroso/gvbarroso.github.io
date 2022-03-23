@@ -21,8 +21,3 @@ owner:
   
 theme: jekyll-theme-minimal
 
-.current {
-
-  background-color: #F0EAD6;
-
-}
