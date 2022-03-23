@@ -2,7 +2,7 @@
 I was born in Jaragua do Sul, Santa Catarina, Brazil.
 <br>
 As a teenager, I played competitive Chess and in my early 20's I was a professional Poker player.
-My currently favorite album is probably [Beacon](https://open.spotify.com/album/3Mdzwty8ag5QyAYLxThypm?si=pMxZbAt7SGejBGPalS8h7g) by Two Door Cinema Club.
+My currently favorite album is probably [Beacon](https://open.spotify.com/album/3Mdzwty8ag5QyAYLxThypm?si=pMxZbAt7SGejBGPalS8h7g) by the Two Door Cinema Club.
 <br><br>
 I did my Bsc in Biological Sciences, Msc in Genetics and Evolution and PhD in Evolutionary Biology [(CV)]({{ site.baseurl }}/pdf/CVitae.pdf).
 Some of my hot takes about science and academia can be found on [Twitter](https://twitter.com/gv_barroso), but you should probably shoot me a private message if you want the really spicy stuff. Please note that I am still recovering from the last season of [Bojack Horseman](https://www.netflix.com/title/70300800)
