@@ -1,9 +1,9 @@
 title: Gustavo V. Barroso
-lsi: false
-safe: true
-incremental: false
-baseurl: gvbarroso.github.io
-logo: "/images/photo.jpg?raw=true"
+baseurl: ""
+url: "http://gvbarroso.github.io"
+verbose: true
+photo: "/images/photo.jpg?raw=true"
+
 description: >
   Los Angeles, CA, USA
   <br><br>

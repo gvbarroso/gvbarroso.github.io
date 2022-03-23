@@ -1,4 +1,5 @@
 ## About
+Terrible!
 I was born in Jaragua do Sul, Santa Catarina, Brazil.
 <br>
 As a teenager, I played competitive Chess and in my early 20's I was a professional Poker player.
