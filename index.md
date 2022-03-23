@@ -26,12 +26,13 @@ As of May 2022 I will be a postdoc with Aaron Ragsdale at the University of Wisc
 <br><br>
 
 ## Life outside academia
-Truth be told, these days life outside academia essentially means chess. What started out as a little pandemic project quickly gained momentum and I am even coming back to the "competitive" scene. My long-term goal is to get the title of FIDE master, but that should take a good number of years and whether I can keep a decent study routine of the game remains to be seen. In the meantime, I play blitz and rapid on [Lichess](lichess.org) under the nickname "QuebelezaFirula", a Brazilian Portuguese wordplay with the name of the French-Iranian genius Alireza Firouzja.
+Truth be told, these days life outside academia essentially means Chess. What started out as a little pandemic project quickly gained momentum and I am even coming back to the "competitive" scene. My long-term goal is to get the title of FIDE master, but that should take a good number of years and whether I can keep a decent study routine of the game remains to be seen. In the meantime, you cand find me playing blitz and rapid on [Lichess](lichess.org) under the nickname "QuebelezaFirula", a Brazilian Portuguese wordplay with the name of the French-Iranian genius Alireza Firouzja.
 <br><br>
 Other than that, I do enjoy working out, playing tennis, football and of course, hiking (the latter like ~98% of academics). And if chess would not be  nerdy enough, you can add playing poker and Magic:the Gathering to the list of games as well.
 <br>
-Next on the bucket list is learning how to play an instrument. At 16, I tried the bass, but life got in the way...
-
+Next on the bucket list is learning how to play an instrument. At 16, I tried the bass, but life got in the way at the time...
+<br><br>
+PS: the draft of my memoir is already 10 pages long!
 
 [phd]: https://macau.uni-kiel.de/servlets/MCRFileNodeServlet/dissertation_derivate_00008280/Diss_GVB_Thesis.pdf
 [ismc]: https://github.com/gvbarroso/iSMC

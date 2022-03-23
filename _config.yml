@@ -1,7 +1,7 @@
 title: Gustavo V. Barroso
 baseurl: ""
 url: "http://gvbarroso.github.io"
-picture: "/images/photo.jpg?raw=true"
+logo: "/images/photo.jpg?raw=true"
 markdown: kramdown
 github_username: gvbarroso
 twitter_username: gv_barroso
