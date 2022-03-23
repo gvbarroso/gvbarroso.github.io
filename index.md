@@ -5,8 +5,7 @@ As a teenager, I played competitive Chess and in my early 20's I was a professio
 My currently favorite album is probably [Beacon](https://open.spotify.com/album/3Mdzwty8ag5QyAYLxThypm?si=pMxZbAt7SGejBGPalS8h7g) by Two Door Cinema Club.
 <br><br>
 I did my Bsc in Biological Sciences, Msc in Genetics and Evolution and PhD in Evolutionary Biology [(CV)]({{ site.baseurl }}/pdf/CVitae.pdf).
-In my current postdoc I investigate natural selection in short time-scales. 
-Some of my hot takes about science and academia can be found on [Twitter](https://twitter.com/gv_barroso), but you should probably shoot me a private message if you want the really spicy stuff.
+Some of my hot takes about science and academia can be found on [Twitter](https://twitter.com/gv_barroso), but you should probably shoot me a private message if you want the really spicy stuff. Please note that I am still recovering from the last season of [Bojack Horseman](https://www.netflix.com/title/70300800)
 
 ## Academic Life
 
@@ -28,7 +27,7 @@ As of May 2022 I will be a postdoc with Aaron Ragsdale at the University of Wisc
 ## Life outside academia
 Truth be told, these days life outside academia essentially means Chess. What started out as a little pandemic project quickly gained momentum and I am even coming back to the "competitive" scene. My long-term goal is to get the title of FIDE master, but that should take a good number of years and whether I can keep a decent study routine of the game remains to be seen. In the meantime, you cand find me playing blitz and rapid on [Lichess](lichess.org) under the nickname "QuebelezaFirula", a Brazilian Portuguese wordplay with the name of the French-Iranian genius Alireza Firouzja.
 <br><br>
-Other than that, I do enjoy working out, playing tennis, football and of course, hiking (the latter like ~98% of academics). And if chess would not be  nerdy enough, you can add playing poker and Magic:the Gathering to the list of games as well.
+Other than that, I do enjoy cooking, playing tennis, football and of course, hiking (like ~98% of academics). And if chess would not be nerdy enough, you can add Magic:the Gathering to the list of games as well.
 <br>
 Next on the bucket list is learning how to play an instrument. At 16, I tried the bass, but life got in the way at the time...
 <br><br>
