@@ -1,5 +1,4 @@
 ## About
-Terrible!
 I was born in Jaragua do Sul, Santa Catarina, Brazil.
 <br>
 As a teenager, I played competitive Chess and in my early 20's I was a professional Poker player.
@@ -9,7 +8,7 @@ I did my Bsc in Biological Sciences, Msc in Genetics and Evolution and PhD in Ev
 In my current postdoc I investigate natural selection in short time-scales. 
 Some of my hot takes about science and academia can be found on [Twitter](https://twitter.com/gv_barroso), but you should probably shoot me a private message if you want the really spicy stuff.
 
-## Projects
+## Academic Life
 
 ### PhD
 In the first chapter of my [PhD thesis][phd], I used regression analyses to investigate the signature of selection in gene expression variation among individual cells. Using single-cell transcriptomics from _Mus musculus_, [we showed](https://www.genetics.org/content/208/1/173) that expression noise is reduced in genes that are central within molecular networks, consistent with selection acting to avoid noise propagation within the cell.
@@ -19,14 +18,14 @@ In the second and third chapters I developed the [integrated Sequentially Markov
 Also during my PhD, we wrote a chapter in this open access book: [Statistical Population Genomics](https://link.springer.com/book/10.1007/978-1-0716-0199-0).
 
 ### Postdoc
-During my postdoc with Kirk Lohmueller I switched my focus to the population genetics of natural selection. I first developed [TIDES][tides] -- a novel statistical framework for inferring parameters of natural selection by levereging transmission distortions in large datasets of family trios. Our method uses approximate Bayesian computation to jointly infer the [dominance and selection coefficients of mutations] (https://www.biorxiv.org/content/10.1101/2021.10.08.463705v2). TIDES is a very flexible model that uses minimal assumptions about the evolutionary process that shaped the DNA sequence data, and we are currently working on improving it further, both conceptually (by modelling epistasis) and practically (by computing new summary statistics using reasonable resources) -- stay tuned!
+During my postdoc with Kirk Lohmueller I switched my focus to the population genetics of natural selection. I first developed [TIDES][tides] -- a novel statistical framework for inferring parameters of natural selection by levereging transmission distortions in large datasets of family trios. Our method uses approximate Bayesian computation to jointly infer the [dominance and selection coefficients of mutations](https://www.biorxiv.org/content/10.1101/2021.10.08.463705v2). TIDES is a very flexible model that uses minimal assumptions about the evolutionary process that shaped the DNA sequence data, and we are currently working on improving it further, both conceptually (by modelling epistasis) and practically (by computing new summary statistics using reasonable resources) -- stay tuned!
 <br><br>
 I am also using SLiM simulations to explore the factors that may limit the accuracy of more traditional methods for inferring selection parameters (i.e., those based on the Site Frequency Spectrum), and thanks to Chris Kyriazis I am now interested in less mainstream (yet very intriguing!) questions in population genetics such as the effect of age structure and life-history strategies on the efficiency of selection.
 <br><br>
 As of May 2022 I will be a postdoc with Aaron Ragsdale at the University of Wisconsin-Madison. There I will face my scariest demons and finally find out if I can do proper population genetics theory!
 <br><br>
 
-### Life outside academia
+## Life outside academia
 Truth be told, these days life outside academia essentially means chess. What started out as a little pandemic project quickly gained momentum and I am even coming back to the "competitive" scene. My long-term goal is to get the title of FIDE master, but that should take a good number of years and whether I can keep a decent study routine of the game remains to be seen. In the meantime, I play blitz and rapid on [Lichess](lichess.org) under the nickname "QuebelezaFirula", a Brazilian Portuguese wordplay with the name of the French-Iranian genius Alireza Firouzja.
 <br><br>
 Other than that, I do enjoy working out, playing tennis, football and of course, hiking (the latter like ~98% of academics). And if chess would not be  nerdy enough, you can add playing poker and Magic:the Gathering to the list of games as well.
