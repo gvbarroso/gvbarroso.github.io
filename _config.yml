@@ -3,8 +3,6 @@ baseurl: ""
 url: "http://gvbarroso.github.io"
 logo: "/images/photo.jpg?raw=true"
 markdown: kramdown
-github_username: gvbarroso
-twitter_username: gv_barroso
 
 description: >
   Los Angeles, CA, USA
@@ -21,4 +19,5 @@ description: >
 owner:
   github: gvbarroso
   
-theme: naringu
+theme: jekyll-theme-minimal
+background-color: #F0EAD6
