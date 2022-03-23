@@ -20,4 +20,9 @@ owner:
   github: gvbarroso
   
 theme: jekyll-theme-minimal
-background-color: #F0EAD6
+
+.current {
+
+  background-color: #F0EAD6;
+
+}
