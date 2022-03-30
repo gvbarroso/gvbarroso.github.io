@@ -7,14 +7,11 @@ markdown: kramdown
 description: >
   Los Angeles, CA, USA
   <br><br>
-  I study evolutionary biology using computational methods.
-  My long-term goal is to understand how population-level processes
-  (genetic drift, natural selection) interact with molecular-level processes
-  (mutation, recombination) to shape patterns of genetic variation.
-  To this end, I develop statistical models based on population genetics theory.
-  I build these models into inference tools using a combination of the C++ and R
-  programming languages and apply them to both simulated and empirical data sets
-  from a variety of species. 
+  I am an population geneticist working to extract meaningful information from data using mathematics.
+  A wet-lab / field biologist by training, I grew interested in data analyses and statistical modelling
+  after my masters. Nowadays, I approach biological questions with computational methods, using a
+  combination of the C++ and R programming languages. My long-term goal is to build more realistic models
+  of nature. 
 
 owner:
   github: gvbarroso
