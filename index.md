@@ -3,7 +3,7 @@ I was born in Jaragua do Sul, Santa Catarina, Brazil.
 <br>
 As a teenager, I played competitive Chess and in my early 20's I was a professional Poker player. At the moment I am quite busy recovering from the last season of [Bojack Horseman](https://www.netflix.com/title/70300800)
 <br><br>
-I did my Bsc in Biological Sciences, Msc in Genetics and Evolution and PhD in Evolutionary Biology [(CV)]({{ site.baseurl }}/pdf/CVitae.pdf). Some of my sarcasm towards academia and politics can be found on [Twitter](https://twitter.com/gv_barroso), but you should probably send me a privamte message if you want the really spicy stuff. 
+I did my Bsc in Biological Sciences, Msc in Genetics and Evolution and PhD in Evolutionary Biology [(CV)]({{ site.baseurl }}/pdf/CVitae.pdf). Some of my sarcasm towards academia and politics can be found on [Twitter](https://twitter.com/gv_barroso), but you should probably send me a private message if you want the really spicy stuff. 
 <br>
 ## Academic Life
 I want to understand how population-level processes (genetic drift, natural selection) interact with molecular-level processes (mutation, recombination) to shape patterns of genetic variation. To this end, I develop probabilistic models based on population genetics theory and apply them to both simulated and empirical data sets from a variety of species.
@@ -16,10 +16,12 @@ In the second and third chapters I developed the [integrated Sequentially Markov
 Also during my PhD, we wrote a chapter in this open access book: [Statistical Population Genomics](https://link.springer.com/book/10.1007/978-1-0716-0199-0).
 
 ### Postdoc-ing
+#### UCLA
 During my postdoc with [Kirk Lohmueller](https://lohmueller.eeb.ucla.edu/) I switched my focus to the population genetics of natural selection. I first developed [TIDES][tides] -- a novel statistical framework for inferring parameters of natural selection by levereging transmission distortions in large datasets of family trios. Our method uses approximate Bayesian computation to jointly infer the [dominance and selection coefficients of mutations](https://www.biorxiv.org/content/10.1101/2021.10.08.463705v2). TIDES is a very flexible model that makes minimal assumptions about the evolutionary process that shaped the DNA sequence data, and we are currently working on improving it further, both conceptually (by modelling epistasis) and practically (by including new summary statistics using reasonable computational resources) -- stay tuned!
 <br><br>
 I am now using SLiM simulations to explore the factors that may limit the accuracy of more traditional methods for inferring selection parameters (i.e., those based on the Site Frequency Spectrum), and thanks to Chris Kyriazis I became interested in less mainstream (yet quite intriguing!) questions in population genetics such as the effect of age structure and life-history strategies on the efficiency of selection.
 <br><br>
+#### UW-Madison
 As of May 2022 I will be a postdoc with [Aaron Ragsdale](https://apragsdale.github.io/). There I will face my scariest demons and finally find out if I can do "proper" population genetics theory!
 <br><br>
 ## Life outside academia
