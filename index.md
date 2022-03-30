@@ -3,11 +3,11 @@ I was born in Jaragua do Sul, Santa Catarina, Brazil.
 <br>
 As a teenager, I played competitive Chess and in my early 20's I was a professional Poker player. At the moment I am quite busy recovering from the last season of [Bojack Horseman](https://www.netflix.com/title/70300800)
 <br><br>
-I did my Bsc in Biological Sciences, Msc in Genetics and Evolution and PhD in Evolutionary Biology [(CV)]({{ site.baseurl }}/pdf/CVitae.pdf). Some of my sarcasm towards academia and politics can be found on [Twitter](https://twitter.com/gv_barroso), but you should probably [email](gvbarroso@gmail.com) me if you want the really spicy stuff. 
-<br><br>
+I did my Bsc in Biological Sciences, Msc in Genetics and Evolution and PhD in Evolutionary Biology [(CV)]({{ site.baseurl }}/pdf/CVitae.pdf). Some of my sarcasm towards academia and politics can be found on [Twitter](https://twitter.com/gv_barroso), but you should probably send me a privamte message if you want the really spicy stuff. 
+<br>
 ## Academic Life
 I want to understand how population-level processes (genetic drift, natural selection) interact with molecular-level processes (mutation, recombination) to shape patterns of genetic variation. To this end, I develop probabilistic models based on population genetics theory and apply them to both simulated and empirical data sets from a variety of species.
-<br><br>
+<br>
 ### PhD
 In the first chapter of my [PhD thesis][phd], I used linear modelling to investigate the signature of selection in gene expression variation among individual cells. Using single-cell transcriptomics from _Mus musculus_, [we showed](https://www.genetics.org/content/208/1/173) that expression noise is reduced in genes that are central within molecular networks, consistent with selection acting to avoid noise propagation within the cell.
 <br><br>
