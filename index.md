@@ -7,6 +7,8 @@ I did my Bsc in Biological Sciences, Msc in Genetics and Evolution and PhD in Ev
 <br>
 ## Academic Life
 I want to understand how population-level processes (genetic drift, natural selection) interact with molecular-level processes (mutation, recombination) to shape patterns of genetic variation. To this end, I develop probabilistic models based on population genetics theory and apply them to both simulated and empirical data sets from a variety of species.
+<br><br> 
+I defend Bayesian reasoning and hypothesis-driven research. I also advocate for soft lottocracy in grant & job selections and support [PeerCommunityIn](https://peercommunityin.org/), a platform for sustainable scientific publishing.
 <br>
 ### PhD
 In the first chapter of my [PhD thesis][phd], I used linear modelling to investigate the signature of selection in gene expression variation among individual cells. Using single-cell transcriptomics from _Mus musculus_, [we showed](https://www.genetics.org/content/208/1/173) that expression noise is reduced in genes that are central within molecular networks, consistent with selection acting to avoid noise propagation within the cell.
