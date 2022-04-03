@@ -31,7 +31,7 @@ Other than that, I very much enjoy cooking, playing tennis, football and -- of c
 <br>
 Next on the bucket list is learning how to play an instrument. At 16, I tried the bass, but even though I had long hair life got in the way at the time...
 <br><br>
-PS: the draft of my memoir is already 10 pages long!
+By the way, the draft of my memoir is already 10 pages long!
 
 [phd]: https://macau.uni-kiel.de/servlets/MCRFileNodeServlet/dissertation_derivate_00008280/Diss_GVB_Thesis.pdf
 [ismc]: https://github.com/gvbarroso/iSMC
