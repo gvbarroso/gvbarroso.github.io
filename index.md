@@ -6,7 +6,7 @@ As a teenager, I played competitive Chess and in my early 20's I was a professio
 I did my Bsc in Biological Sciences, Msc in Genetics and Evolution and PhD in Evolutionary Biology [(CV)]({{ site.baseurl }}/pdf/CVitae.pdf). Some of my sarcasm towards academia and politics can be found on [Twitter](https://twitter.com/gv_barroso), but you should probably send me a private message if you want the really spicy stuff. 
 <br>
 ## Academic Life
-I want to understand how population-level processes (genetic drift, natural selection) interact with molecular-level processes (mutation, recombination) to shape patterns of genetic variation. To this end, I develop probabilistic models based on population genetics theory and apply them to both simulated and empirical datasets from a variety of species.
+I want to understand how population-level processes interact with molecular-level processes to shape patterns of genetic and phenotypic variation. To this end, I develop probabilistic models based on population genetics theory and apply them to both simulated and empirical datasets from a variety of species. My long-term goal is to build more realistic models of nature.
 <br><br> 
 I defend Bayesian reasoning as well as hypothesis-driven research. I also advocate for soft lottocracy in grant & job selections and support [PeerCommunityIn](https://peercommunityin.org/), a platform for sustainable scientific publishing.
 <br>
